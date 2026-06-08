@@ -5,7 +5,7 @@ Group Members
 3. NUR DIENA SOFEA BINTI MOHD TAZUDDIN (S76256)
 
 Contents in the folder
- - src/ (Java NetBeans project)
- - database/ (SQLite file / script)
- - postman/ (API collection)
+ - src: Java NetBeans project
+ - database: Xampp MySQL
+ - API: Postman
  
