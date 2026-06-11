@@ -4,8 +4,37 @@ Group Members
 2. AINUL MARDHIYYAH BINTI SABE (S74485)
 3. NUR DIENA SOFEA BINTI MOHD TAZUDDIN (S76256)
 
-Contents in the folder
- - src: Java NetBeans project
- - database: Xampp MySQL
- - API: Postman
- 
+## Project Description
+Smart Campus Booking System developed using Service-Oriented Architecture (SOA).
+
+## Services
+- BookingService
+- FacilityService
+- ITService
+- NotificationService
+- RequestService
+- UserService
+
+## Technologies
+- Java
+- Jakarta RESTful Web Services (JAX-RS)
+- NetBeans
+- Apache Tomcat
+- MySQL
+
+## Current Progress
+Deliverable 3 - Prototype Progress
+
+Implemented:
+- Service separation
+- REST API communication
+- Database integration
+- User Interface prototype
+- CRUD operations
+
+Pending:
+- Final integration
+- Advanced validation
+- Security enhancements
+- Complete testing
+- UI enhancement
