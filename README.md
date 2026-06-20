@@ -5,15 +5,15 @@ Group Members
 3. NUR DIENA SOFEA BINTI MOHD TAZUDDIN (S76256)
 
 ## Project Description
-Smart Campus Booking System developed using Service-Oriented Architecture (SOA).
+Smart Campus Support System developed using Service-Oriented Architecture (SOA).
 
 ## Services
+- UserService
+- RequestService
 - BookingService
 - FacilityService
 - ITService
 - NotificationService
-- RequestService
-- UserService
 
 ## Technologies
 - Java
@@ -23,7 +23,7 @@ Smart Campus Booking System developed using Service-Oriented Architecture (SOA).
 - MySQL
 
 ## Current Progress
-Deliverable 3 - Prototype Progress
+Deliverable 4 - Final Project Report/Output
 
 Implemented:
 - Service separation
@@ -31,8 +31,6 @@ Implemented:
 - Database integration
 - User Interface prototype
 - CRUD operations
-
-Pending:
 - Final integration
 - Advanced validation
 - Security enhancements
